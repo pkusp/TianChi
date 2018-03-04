@@ -1,0 +1,27 @@
+有效数据
+记录数：665405
+cnt MAE：0.0
+round MAE：0.0
+cnt MAPE：0.0
+round MAPE：0.0
+
+
+用0填充后
+记录数：665405
+cnt MAE：0.0
+round MAE：0.0
+cnt MAPE：0.0
+round MAPE：0.0
+
+
+额外的数据（不作要求），新边
+记录数：39693
+cnt MAE：0.0
+round MAE：0.0
+cnt MAPE：0.0
+round MAPE：0.0
+
+
+额外的数据（不作要求），消失边
+记录数：151
+正确的记录数：43
